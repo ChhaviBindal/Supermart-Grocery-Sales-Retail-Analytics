@@ -1,0 +1,11 @@
+This project focuses on cleaning, analyzing, and visualizing a grocery sales dataset from a fictional supermarket operating in Tamil Nadu, India.
+The dataset contains detailed order-level information including sales, profit, discounts, and regional metadata. The objective is to derive actionable insights and build a predictive model for sales using Python.
+
+Key steps in the project include:
+-Data Cleaning: Removing duplicates, handling missing values, converting date columns, and encoding categorical variables for analysis.
+-Exploratory Data Analysis (EDA): Uncovering patterns across product categories, cities, months, and years using Matplotlib and Seaborn.
+-Insight Generation: Identifying high-performing product segments, regional trends, and the effect of discounts on profits.
+-Predictive Modeling: Training a Linear Regression model to forecast sales using features like category, region, discount, and profit.
+-Visualization: Creating boxplots, line graphs, bar charts, pie charts, and scatter plots to present findings in a business-friendly manner.
+
+This project builds hands-on experience in data preprocessing, trend analysis, and basic machine learning—core skills for aspiring Data Analysts and Business Intelligence professionals.
